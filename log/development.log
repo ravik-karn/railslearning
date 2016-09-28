@@ -28,3 +28,10 @@ Processing by ApplicationController#hello as HTML
 Completed 200 OK in 37ms (Views: 27.3ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for ::1 at 2016-09-28 16:57:55 +0530
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
